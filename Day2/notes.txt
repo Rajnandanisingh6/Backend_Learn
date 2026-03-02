@@ -1,0 +1,11 @@
+npm init -y => nodejs application initate
+
+npm i express => install express package
+
+server.js
+
+
+GET => server se data fetch karvna ho tb use krte hai
+POST => SERVER PR DATA SEND KARNA ho
+PATCH =>server pr data already hai aur us data ko update krna ho tb use krte hai
+DELETE =>server pr data hai aur us delete krna hai
