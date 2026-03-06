@@ -50,7 +50,7 @@ app.patch('/notes/:index',(req,res)=>{
 
     notes[index].description = description // array ke index ke description ko update kr rhe hai  
     res.status(200).json({
-      message:"note updated successfully",
+      message:"note updated successfully", 
     })
 })
 
